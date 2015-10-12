@@ -25,7 +25,8 @@ inception = media.Movie("Inception",
 the_avengers = media.Movie("The Avengers",
                             "Joss Whedon",
                             "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner",
-                            "http://palarisme.ro/images/filme/marvel/sd.jpg", "https://www.youtube.com/watch?v=eOrNdBpGMv8")
+                            "http://palarisme.ro/images/filme/marvel/sd.jpg",
+                            "https://www.youtube.com/watch?v=eOrNdBpGMv8")
 the_hangover = media.Movie("The Hangover",
                             "Todd Phillips",
                             "Bradley Cooper, Ed Helms, Zach Galifianakis",
