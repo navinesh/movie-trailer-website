@@ -1,6 +1,6 @@
 #Movie trailer website
 
-Movie trailer website application displays a webpage with list of movies, including movie poster image, name of movie director, starring actors, and a movie trailer URL. Clicking on the movie link will play YouTube trailer.
+Movie trailer website application displays a webpage with the list of movies, including movie poster image, name of movie director, starring actors, and a movie trailer URL. Clicking on the movie link will play YouTube trailer.
 
 ##Required Libraries and Dependencies
 Python 2.7
@@ -30,7 +30,7 @@ Movie Trailer Website/
 * 3. Run the command `python entertainment_center.py`
 
 ##Extra Credit Description
-Apart from showing movie title, poster image and movie trailer, this application also shows director's name and starring actors.
+Apart from showing movie title, poster image and movie trailer, this application also shows the director and starring actors' names.
 
 ##Miscellaneous
 This application was tested on Windows 10 with Python 2.7.10 and on Ubuntu Linux with Python 2.7.6
