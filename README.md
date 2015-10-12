@@ -48,7 +48,7 @@ Apart from showing movie title, poster image and movie trailer, this application
 
 Miscellaneous
 --------------
-This application was tested on Windows 10 with Python 2.7.10, and on Ubuntu Linux with Python 2.7
+This application was tested on Windows 10 with Python 2.7.10 and on Ubuntu Linux with Python 2.7
 
 Creator
 --------
