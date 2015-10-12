@@ -7,8 +7,7 @@ Python 2.7
 
 **What's included**
 
-Within the download you will find the following directory and files
-In the Movie trailer website folder you will find the following files.
+Within the download you will find the following directory and files.
 
 ```
 Movie Trailer Website/
