@@ -27,7 +27,6 @@ Movie Trailer Website/
 * 3. Navigate to the directory where you unzipped the file
 * 4. Select "entertainment_center.py" and click Open button
 * 5. Click on Run menu and scroll down and click Run Module or simply press F5
-* 6. If you get a prompt to select a browser, select your favorite browser to open the web page
 
 **Linux**
 * 1. Open terminal
