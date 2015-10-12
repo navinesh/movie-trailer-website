@@ -1,6 +1,7 @@
 class Movie():
     """Class to create instances of movies"""
-    def __init__(self, movie_title, movie_director, movie_starring, poster_image_url, trailer_youtube_url):
+    def __init__(self, movie_title, movie_director, movie_starring,
+                 poster_image_url, trailer_youtube_url):
         """Inits Movie class with movie variables"""
         self.title = movie_title
         self.director = movie_director
