@@ -1,5 +1,5 @@
-﻿Movie trailer website
-======================
+﻿Project: Movie trailer website
+==============================
 
 Introduction
 -------------
@@ -18,6 +18,7 @@ How to Run the Project
 Download "Movie trailer website.zip" file and unzip it to your project's directory.
 
 **What's included**
+
 In the Movie trailer website folder you will find the following files.
 
 Movie Trailer Website/
