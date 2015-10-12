@@ -16,11 +16,12 @@ Download "Movie trailer website.zip" file and unzip it to your project's directo
 
 In the Movie trailer website folder you will find the following files.
 
+```
 Movie Trailer Website/
 ├── fresh_tomatoes.py
 ├── media.py
 ├── entertainment_center.py
-
+```
 
 **Windows**
 - 1. Open Python shell
