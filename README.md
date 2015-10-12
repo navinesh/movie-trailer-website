@@ -8,11 +8,9 @@ Python
 * For windows Python 2.7.10
 * For Linux Python 2.7
 
-##How to Run the Project
-Download "Movie trailer website.zip" file and unzip it to your project's directory.
-
 **What's included**
 
+Within the download you will find the following directory and files
 In the Movie trailer website folder you will find the following files.
 
 ```
@@ -22,28 +20,26 @@ Movie Trailer Website/
 ├── entertainment_center.py
 ```
 
+##How to Run the Project
 **Windows**
-- 1. Open Python shell
-- 2. Click File, Open...
-- 3. Navigate to the directory where you unzipped the file
-- 4. Select "entertainment_center.py" and click Open button
-- 5. Click on Run menu and scroll down and click Run Module or simply press F5
-- 6. If you get a prompt to select a browser, select your favorite browser to open the web page
+* 1. Open Python shell
+* 2. Click File, Open...
+* 3. Navigate to the directory where you unzipped the file
+* 4. Select "entertainment_center.py" and click Open button
+* 5. Click on Run menu and scroll down and click Run Module or simply press F5
+* 6. If you get a prompt to select a browser, select your favorite browser to open the web page
 
 **Linux**
-- 1. Open terminal
-- 2. Navigate to the directory where you unzipped the file
-- 3. Run the command, python entertainment_center.py
+* 1. Open terminal
+* 2. Navigate to the directory where you unzipped the file
+* 3. Run the command, python entertainment_center.py
 
-Extra Credit Description
--------------------------
+##Extra Credit Description
 Apart from showing movie title, poster image and movie trailer, this application also shows director's name and starring actors.
 
-Miscellaneous
---------------
+##Miscellaneous
 This application was tested on Windows 10 with Python 2.7.10 and on Ubuntu Linux with Python 2.7
 
-Creator
---------
+##Creator
 Navinesh Chand
-- https://twitter.com/navinesh
+* https://twitter.com/navinesh
