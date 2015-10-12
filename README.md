@@ -32,7 +32,7 @@ Movie Trailer Website/
 **Linux**
 * 1. Open terminal
 * 2. Navigate to the directory where you unzipped the file
-* 3. Run the command, python entertainment_center.py
+* 3. Run the command, `python entertainment_center.py`
 
 ##Extra Credit Description
 Apart from showing movie title, poster image and movie trailer, this application also shows director's name and starring actors.
