@@ -1,8 +1,6 @@
 ﻿Project: Movie trailer website
 ==============================
 
-Introduction
--------------
 Movie trailer website application stores list of movies, including movie poster image, name of movie director, starring actors, and a movie trailer URL. Running this application displays a webpage with list of movies. Clicking on the link will play YouTube trailer.
 
 Required Libraries and Dependencies
