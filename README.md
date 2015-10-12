@@ -5,9 +5,8 @@ Movie trailer website application stores list of movies, including movie poster 
 ##Required Libraries and Dependencies
 Python
 
-For windows Python 2.7.10
-
-For Linux Python 2.7
+* For windows Python 2.7.10
+* For Linux Python 2.7
 
 ##How to Run the Project
 Download "Movie trailer website.zip" file and unzip it to your project's directory.
